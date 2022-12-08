@@ -247,6 +247,7 @@
 
 ## Shell 
 
+- [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [jlesage/docker-czkawka](https://github.com/jlesage/docker-czkawka) - Docker container for Czkawka
 - [hagezi/files](https://github.com/hagezi/files) - This, that and the other - things i would like to share
 - [yubiuser/pihole_tools](https://github.com/yubiuser/pihole_tools) - 
