@@ -247,6 +247,7 @@
 
 ## Shell 
 
+- [redhat-plumbers-in-action/differential-shellcheck](https://github.com/redhat-plumbers-in-action/differential-shellcheck) - 🐚 GitHub Action for running ShellCheck differentially
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [jlesage/docker-czkawka](https://github.com/jlesage/docker-czkawka) - Docker container for Czkawka
 - [hagezi/files](https://github.com/hagezi/files) - This, that and the other - things i would like to share
