@@ -104,6 +104,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
 - [puf17640/git-badges](https://github.com/puf17640/git-badges) - An API serving useful badges for your GitHub Profile README 🚀🎉
