@@ -413,6 +413,7 @@
 
 ## others 
 
+- [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
 - [n0y/mediatheken-dlna-bridge](https://github.com/n0y/mediatheken-dlna-bridge) - consumes contents of various (german) Mediatheken, and serves it's content to your local network using DLNA
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [jlesage/docker-czkawka](https://github.com/jlesage/docker-czkawka) - Docker container for Czkawka
