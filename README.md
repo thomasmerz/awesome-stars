@@ -295,6 +295,7 @@
 
 ## TypeScript 
 
+- [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances
 - [thomasmerz/productive-box](https://github.com/thomasmerz/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
