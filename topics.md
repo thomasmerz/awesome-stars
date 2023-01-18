@@ -54,6 +54,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
+- [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [osint](#osint)
@@ -194,6 +195,7 @@
 
 ## docker 
 
+- [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [redhat-plumbers-in-action/differential-shellcheck](https://github.com/redhat-plumbers-in-action/differential-shellcheck) - 🐚 GitHub Action for running ShellCheck differentially
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service. Build using Laravel and the Speedtest CLI.
@@ -394,6 +396,10 @@
 ## neovim 
 
 - [eth-p/vim-it2-touchbar](https://github.com/eth-p/vim-it2-touchbar) - A Vim and Neovim plugin that adds Apple Touch Bar support when using iTerm2.
+
+## node 
+
+- [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances
 
 ## nodejs 
 
@@ -618,6 +624,7 @@
 
 ## typescript 
 
+- [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
