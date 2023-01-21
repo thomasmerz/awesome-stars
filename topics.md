@@ -26,6 +26,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [elixir](#elixir)
 - [express](#express)
 - [finance](#finance)
 - [firefox](#firefox)
@@ -214,6 +215,10 @@
 ## documentation 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## elixir 
+
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 
 ## express 
 
