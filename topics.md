@@ -417,6 +417,7 @@
 
 ## open-source 
 
+- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
@@ -428,6 +429,9 @@
 
 ## others 
 
+- [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
+- [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [rdwebdesign/folder2ram](https://github.com/rdwebdesign/folder2ram) - mount those folders to ram without losing access to their counterpart on disk!
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
 - [n0y/mediatheken-dlna-bridge](https://github.com/n0y/mediatheken-dlna-bridge) - consumes contents of various (german) Mediatheken, and serves it's content to your local network using DLNA
@@ -555,6 +559,7 @@
 
 ## raspberry-pi 
 
+- [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [Chocorean/pibackup](https://github.com/Chocorean/pibackup) - Backup your Raspberry PI with one command
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
