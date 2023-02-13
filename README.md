@@ -93,6 +93,7 @@
 
 ## HTML 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [thomasmerz/1Hosts](https://github.com/thomasmerz/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
 - [thomasmerz/blahdns](https://github.com/thomasmerz/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [ungoogled-software/ungoogled-chromium-binaries](https://github.com/ungoogled-software/ungoogled-chromium-binaries) - Concerns prebuilt versions of ungoogled-chromium
@@ -158,7 +159,6 @@
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [duckduckgo/tracker-blocklists](https://github.com/duckduckgo/tracker-blocklists) - Web tracker blocklists used by DuckDuckGo apps and extensions.
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
