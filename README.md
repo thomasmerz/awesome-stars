@@ -156,7 +156,6 @@
 
 - [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
 - [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
-- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
