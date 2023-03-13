@@ -431,7 +431,6 @@
 
 - [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
 - [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
-- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [rdwebdesign/folder2ram](https://github.com/rdwebdesign/folder2ram) - mount those folders to ram without losing access to their counterpart on disk!
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
 - [n0y/mediatheken-dlna-bridge](https://github.com/n0y/mediatheken-dlna-bridge) - consumes contents of various (german) Mediatheken, and serves it's content to your local network using DLNA
