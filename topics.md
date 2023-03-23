@@ -429,6 +429,7 @@
 
 ## others 
 
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
 - [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
 - [rdwebdesign/folder2ram](https://github.com/rdwebdesign/folder2ram) - mount those folders to ram without losing access to their counterpart on disk!
