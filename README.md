@@ -154,6 +154,7 @@
 
 ## Others 
 
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
 - [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
