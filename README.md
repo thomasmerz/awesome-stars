@@ -30,6 +30,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 
@@ -94,7 +95,6 @@
 
 ## HTML 
 
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [thomasmerz/1Hosts](https://github.com/thomasmerz/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
 - [thomasmerz/blahdns](https://github.com/thomasmerz/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [ungoogled-software/ungoogled-chromium-binaries](https://github.com/ungoogled-software/ungoogled-chromium-binaries) - Concerns prebuilt versions of ungoogled-chromium
@@ -308,6 +308,10 @@
 - [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
