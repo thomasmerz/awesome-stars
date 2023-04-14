@@ -434,6 +434,7 @@
 
 ## others 
 
+- [friedrich/hans](https://github.com/friedrich/hans) - IP over ICMP
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
 - [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
