@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [friedrich/hans](https://github.com/friedrich/hans) - IP over ICMP
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 
