@@ -242,6 +242,7 @@
 
 ## Rust 
 
+- [Nevenit/oggify](https://github.com/Nevenit/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [shurizzle/oggify](https://github.com/shurizzle/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
 - [fherrera124/docker-oggify](https://github.com/fherrera124/docker-oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
@@ -316,6 +317,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances
 - [thomasmerz/productive-box](https://github.com/thomasmerz/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
