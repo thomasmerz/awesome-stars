@@ -56,6 +56,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
+- [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -352,6 +353,7 @@
 
 ## json 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 
 ## kubernetes 
@@ -410,6 +412,10 @@
 
 - [eth-p/vim-it2-touchbar](https://github.com/eth-p/vim-it2-touchbar) - A Vim and Neovim plugin that adds Apple Touch Bar support when using iTerm2.
 
+## nextjs 
+
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+
 ## node 
 
 - [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances
@@ -434,6 +440,7 @@
 
 ## others 
 
+- [Nevenit/oggify](https://github.com/Nevenit/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
 - [friedrich/hans](https://github.com/friedrich/hans) - IP over ICMP
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
@@ -573,6 +580,7 @@
 
 ## react 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 
 ## reactjs 
