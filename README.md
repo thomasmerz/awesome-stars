@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
 - [thomasmerz/crypto_puzzles](https://github.com/thomasmerz/crypto_puzzles) - Crypto Puzzles is a tool and library to provide a bunch of functions for encryption or pseudo encryption as puzzles or brain teasers. Awesome for kids but some puzzles are also a challenge for adults.
@@ -274,7 +275,7 @@
 - [hagezi/files](https://github.com/hagezi/files) - This, that and the other - things i would like to share
 - [yubiuser/pihole_tools](https://github.com/yubiuser/pihole_tools) - 
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Ad, tracker, adult content and gambling blocking for our DNS blocking service
+- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Ads, trackers, adult content, social media and gambling blocking for our DNS blocking service
 - [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server
 - [thomasmerz/rear](https://github.com/thomasmerz/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [thomasmerz/dnsperftest](https://github.com/thomasmerz/dnsperftest) - DNS Performance test
