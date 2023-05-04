@@ -160,6 +160,7 @@
 
 ## cli 
 
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -459,7 +460,7 @@
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [duckduckgo/tracker-blocklists](https://github.com/duckduckgo/tracker-blocklists) - Web tracker blocklists used by DuckDuckGo apps and extensions.
 - [shurizzle/oggify](https://github.com/shurizzle/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
-- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Ad, tracker, adult content and gambling blocking for our DNS blocking service
+- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Ads, trackers, adult content, social media and gambling blocking for our DNS blocking service
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [fherrera124/docker-oggify](https://github.com/fherrera124/docker-oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
 - [kescherCode/oggify](https://github.com/kescherCode/oggify) - Download Spotify media (with a premium account)
@@ -558,6 +559,7 @@
 
 ## python 
 
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -570,6 +572,7 @@
 
 ## python3 
 
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
 
 ## raspberry-pi 
