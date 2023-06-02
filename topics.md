@@ -75,6 +75,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
 - [statistics](#statistics)
@@ -334,6 +335,7 @@
 
 ## hacktoberfest 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
@@ -699,6 +701,10 @@
 ## server 
 
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+
+## serverless 
+
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## shell 
 
