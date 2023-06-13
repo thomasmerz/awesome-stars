@@ -5,168 +5,76 @@
 
 ## Contents
 
-- [Adblock Filter List](#adblock-filter-list)
-- [C](#c)
-- [C#](#c#)
-- [C++](#c++)
-- [CSS](#css)
-- [Dockerfile](#dockerfile)
-- [Elixir](#elixir)
-- [Go](#go)
-- [HCL](#hcl)
-- [HTML](#html)
-- [Haskell](#haskell)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Jinja](#jinja)
-- [Makefile](#makefile)
-- [Markdown](#markdown)
-- [Others](#others)
-- [PHP](#php)
-- [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [SCSS](#scss)
+- [Others](#others)
+- [JavaScript](#javascript)
 - [Shell](#shell)
-- [Swift](#swift)
-- [Text](#text)
-- [TypeScript](#typescript)
+- [Makefile](#makefile)
+- [Go](#go)
+- [C](#c)
 - [Vim Script](#vim-script)
+- [TypeScript](#typescript)
+- [Dockerfile](#dockerfile)
+- [HTML](#html)
+- [Rust](#rust)
+- [C++](#c++)
+- [Adblock Filter List](#adblock-filter-list)
+- [PHP](#php)
+- [Java](#java)
+- [Text](#text)
+- [Swift](#swift)
+- [Markdown](#markdown)
+- [HCL](#hcl)
+- [CSS](#css)
+- [Perl](#perl)
+- [Jinja](#jinja)
+- [Elixir](#elixir)
+- [SCSS](#scss)
+- [C#](#c#)
+- [PowerShell](#powershell)
+- [Ruby](#ruby)
+- [Haskell](#haskell)
 
-## Adblock Filter List 
+## Python 
 
-- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-
-## C 
-
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [emikulic/darkstat](https://github.com/emikulic/darkstat) - Realtime network statistics.
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-
-## C# # 
-
-- [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-
-## C++ 
-
-- [friedrich/hans](https://github.com/friedrich/hans) - IP over ICMP
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-## CSS 
-
-- [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
-- [jvns/julia-drawings](https://github.com/jvns/julia-drawings) - 
-- [okfde/offenerhaushalt.de](https://github.com/okfde/offenerhaushalt.de) - Visualize budgets from various levels of the German government; based on the OpenSpending API
-
-## Dockerfile 
-
-- [gregtwallace/legocerthub](https://github.com/gregtwallace/legocerthub) - 
-
-## Elixir 
-
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
-
-## Go 
-
-- [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
-- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [olivere/iterm2-imagetools](https://github.com/olivere/iterm2-imagetools) - Display images in the command line with iterm2.
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
-- [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [masterzen/winrm-cli](https://github.com/masterzen/winrm-cli) - Command-line tool to remotely execute commands on Windows machines through WinRM
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-## HCL 
-
-- [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff) - blocklists, scripts, etc.
-- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
-
-## HTML 
-
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [thomasmerz/1Hosts](https://github.com/thomasmerz/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
-- [thomasmerz/blahdns](https://github.com/thomasmerz/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
-- [ungoogled-software/ungoogled-chromium-binaries](https://github.com/ungoogled-software/ungoogled-chromium-binaries) - Concerns prebuilt versions of ungoogled-chromium
-- [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
-- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
-## Haskell 
-
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-
-## Java 
-
-- [n0y/mediatheken-dlna-bridge](https://github.com/n0y/mediatheken-dlna-bridge) - consumes contents of various (german) Mediatheken, and serves it's content to your local network using DLNA
-- [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView) - Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender
-
-## JavaScript 
-
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
-- [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
-- [duckduckgo/tracker-blocklists](https://github.com/duckduckgo/tracker-blocklists) - Web tracker blocklists used by DuckDuckGo apps and extensions.
-- [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
-- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
-- [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
-- [thomasmerz/github-stats-box](https://github.com/thomasmerz/github-stats-box) - 📌 Update a gist to contain your GitHub stats
-- [thomasmerz/spotify-box](https://github.com/thomasmerz/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
-- [thomasmerz/metrics](https://github.com/thomasmerz/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
-- [thomasmerz/Lists](https://github.com/thomasmerz/Lists) - Primary Block Lists
-- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
-- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
-- [Aveek-Saha/spotify-box](https://github.com/Aveek-Saha/spotify-box) - 🎧 Update a pinned gist to show your top Spotify tracks/artists.
-- [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [inokawa/lang-box](https://github.com/inokawa/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
-- [izayl/spotify-box](https://github.com/izayl/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
-- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
-- [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
-- [ryo-ma/github-profile-readme-generator](https://github.com/ryo-ma/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [okfde/offenegesetze.de](https://github.com/okfde/offenegesetze.de) - ⚖️ Wir öffnen das Bundesgesetzblatt
-
-## Jinja 
-
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-- [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
-
-## Makefile 
-
-- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-## Markdown 
-
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
+- [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole) - Block malware on your network using your PiHole, using threat intelligence extracted from Emerging Threats rulesets.
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
+- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+- [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
+- [thomasmerz/crypto_puzzles](https://github.com/thomasmerz/crypto_puzzles) - Crypto Puzzles is a tool and library to provide a bunch of functions for encryption or pseudo encryption as puzzles or brain teasers. Awesome for kids but some puzzles are also a challenge for adults.
+- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [thomasmerz/specials](https://github.com/thomasmerz/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
+- [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [cedws/apple-telemetry](https://github.com/cedws/apple-telemetry) - Domain blocklists, IP blocklists, Little Snitch .lsrules, and cloaking files for blocking Apple telemetry
+- [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [klamann/diceware-dereko](https://github.com/klamann/diceware-dereko) - a decent German Diceware word list to generate memorable passphrases
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
+- [bundestag/gesetze-tools](https://github.com/bundestag/gesetze-tools) - Scripts to maintain German law git repository
+- [Kerybas/speedtest-cli](https://github.com/Kerybas/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+- [petercunha/bandcamp-ripper](https://github.com/petercunha/bandcamp-ripper) - :musical_note:  Rips MP3 files from Bandcamp album URL's
+- [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## Others 
 
+- [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [pkrumins/bash-redirections-cheat-sheet](https://github.com/pkrumins/bash-redirections-cheat-sheet) - Bash redirections cheat sheet
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
@@ -204,86 +112,36 @@
 - [lrvick/security-token-docs](https://github.com/lrvick/security-token-docs) - Documentation of Security Tokens and their uses.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 
-## PHP 
+## JavaScript 
 
-- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-- [thomasmerz/Speedtest-Tracker](https://github.com/thomasmerz/Speedtest-Tracker) - Continuously track your internet speed
-- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
-
-## Perl 
-
-- [speed47/btrfs-list](https://github.com/speed47/btrfs-list) - Get a nice tree-style view of your btrfs subvolumes/snapshots, including their size, a la 'zfs list'
-- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-
-## PowerShell 
-
-- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-
-## Python 
-
-- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
-- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
-- [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole) - Block malware on your network using your PiHole, using threat intelligence extracted from Emerging Threats rulesets.
-- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
-- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
-- [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
-- [thomasmerz/crypto_puzzles](https://github.com/thomasmerz/crypto_puzzles) - Crypto Puzzles is a tool and library to provide a bunch of functions for encryption or pseudo encryption as puzzles or brain teasers. Awesome for kids but some puzzles are also a challenge for adults.
-- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
-- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
-- [thomasmerz/specials](https://github.com/thomasmerz/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
-- [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-- [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
-- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [cedws/apple-telemetry](https://github.com/cedws/apple-telemetry) - Domain blocklists, IP blocklists, Little Snitch .lsrules, and cloaking files for blocking Apple telemetry
-- [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
-- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [klamann/diceware-dereko](https://github.com/klamann/diceware-dereko) - a decent German Diceware word list to generate memorable passphrases
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
-- [bundestag/gesetze-tools](https://github.com/bundestag/gesetze-tools) - Scripts to maintain German law git repository
-- [Kerybas/speedtest-cli](https://github.com/Kerybas/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
-- [petercunha/bandcamp-ripper](https://github.com/petercunha/bandcamp-ripper) - :musical_note:  Rips MP3 files from Bandcamp album URL's
-- [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
-- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-
-## Ruby 
-
-- [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit's FUSE tap
-- [dm-drogeriemarkt/foreman_netbox](https://github.com/dm-drogeriemarkt/foreman_netbox) - A Foreman plug-in to synchronise hosts to the Netbox CMDB
-
-## Rust 
-
-- [Nevenit/oggify](https://github.com/Nevenit/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [shurizzle/oggify](https://github.com/shurizzle/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
-- [fherrera124/docker-oggify](https://github.com/fherrera124/docker-oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
-- [kescherCode/oggify](https://github.com/kescherCode/oggify) - Download Spotify media (with a premium account)
-- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-- [thomasmerz/dnspeep](https://github.com/thomasmerz/dnspeep) - spy on the DNS queries your computer is making
-- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
-
-## SCSS 
-
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
+- [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
+- [duckduckgo/tracker-blocklists](https://github.com/duckduckgo/tracker-blocklists) - Web tracker blocklists used by DuckDuckGo apps and extensions.
+- [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
+- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
+- [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
+- [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
+- [thomasmerz/github-stats-box](https://github.com/thomasmerz/github-stats-box) - 📌 Update a gist to contain your GitHub stats
+- [thomasmerz/spotify-box](https://github.com/thomasmerz/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
+- [thomasmerz/metrics](https://github.com/thomasmerz/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
+- [thomasmerz/Lists](https://github.com/thomasmerz/Lists) - Primary Block Lists
+- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
+- [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+- [Aveek-Saha/spotify-box](https://github.com/Aveek-Saha/spotify-box) - 🎧 Update a pinned gist to show your top Spotify tracks/artists.
+- [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [inokawa/lang-box](https://github.com/inokawa/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
+- [izayl/spotify-box](https://github.com/izayl/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
+- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
+- [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
+- [ryo-ma/github-profile-readme-generator](https://github.com/ryo-ma/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [okfde/offenegesetze.de](https://github.com/okfde/offenegesetze.de) - ⚖️ Wir öffnen das Bundesgesetzblatt
 
 ## Shell 
 
@@ -334,16 +192,53 @@
 - [rear/rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
 
-## Swift 
+## Makefile 
 
-- [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) - Color schemes for default macOS Terminal.app
-- [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
-- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
-- [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
+- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-## Text 
+## Go 
 
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [olivere/iterm2-imagetools](https://github.com/olivere/iterm2-imagetools) - Display images in the command line with iterm2.
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
+- [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [masterzen/winrm-cli](https://github.com/masterzen/winrm-cli) - Command-line tool to remotely execute commands on Windows machines through WinRM
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+## C 
+
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [emikulic/darkstat](https://github.com/emikulic/darkstat) - Realtime network statistics.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
+
+## Vim Script 
+
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
+- [tribela/vim-transparent](https://github.com/tribela/vim-transparent) - Remove all background color on Vim
+- [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
+- [z0mbix/vim-shfmt](https://github.com/z0mbix/vim-shfmt) - Vim plugin for shfmt (https://github.com/mvdan/sh)
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [eth-p/vim-it2-touchbar](https://github.com/eth-p/vim-it2-touchbar) - A Vim and Neovim plugin that adds Apple Touch Bar support when using iTerm2.
+- [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
 
 ## TypeScript 
 
@@ -358,15 +253,122 @@
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 
-## Vim Script 
+## Dockerfile 
 
-- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [tribela/vim-transparent](https://github.com/tribela/vim-transparent) - Remove all background color on Vim
-- [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
-- [z0mbix/vim-shfmt](https://github.com/z0mbix/vim-shfmt) - Vim plugin for shfmt (https://github.com/mvdan/sh)
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository
-- [eth-p/vim-it2-touchbar](https://github.com/eth-p/vim-it2-touchbar) - A Vim and Neovim plugin that adds Apple Touch Bar support when using iTerm2.
-- [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
+- [gregtwallace/legocerthub](https://github.com/gregtwallace/legocerthub) - 
+
+## HTML 
+
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [thomasmerz/1Hosts](https://github.com/thomasmerz/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
+- [thomasmerz/blahdns](https://github.com/thomasmerz/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
+- [ungoogled-software/ungoogled-chromium-binaries](https://github.com/ungoogled-software/ungoogled-chromium-binaries) - Concerns prebuilt versions of ungoogled-chromium
+- [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
+- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+## Rust 
+
+- [Nevenit/oggify](https://github.com/Nevenit/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [shurizzle/oggify](https://github.com/shurizzle/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
+- [fherrera124/docker-oggify](https://github.com/fherrera124/docker-oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
+- [kescherCode/oggify](https://github.com/kescherCode/oggify) - Download Spotify media (with a premium account)
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
+- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
+- [thomasmerz/dnspeep](https://github.com/thomasmerz/dnspeep) - spy on the DNS queries your computer is making
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
+
+## C++ 
+
+- [friedrich/hans](https://github.com/friedrich/hans) - IP over ICMP
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+## Adblock Filter List 
+
+- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+
+## PHP 
+
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+- [thomasmerz/Speedtest-Tracker](https://github.com/thomasmerz/Speedtest-Tracker) - Continuously track your internet speed
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
+
+## Java 
+
+- [n0y/mediatheken-dlna-bridge](https://github.com/n0y/mediatheken-dlna-bridge) - consumes contents of various (german) Mediatheken, and serves it's content to your local network using DLNA
+- [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView) - Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
+## Swift 
+
+- [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) - Color schemes for default macOS Terminal.app
+- [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
+- [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
+
+## Markdown 
+
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
+
+## HCL 
+
+- [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff) - blocklists, scripts, etc.
+- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
+
+## CSS 
+
+- [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
+- [jvns/julia-drawings](https://github.com/jvns/julia-drawings) - 
+- [okfde/offenerhaushalt.de](https://github.com/okfde/offenerhaushalt.de) - Visualize budgets from various levels of the German government; based on the OpenSpending API
+
+## Perl 
+
+- [speed47/btrfs-list](https://github.com/speed47/btrfs-list) - Get a nice tree-style view of your btrfs subvolumes/snapshots, including their size, a la 'zfs list'
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+
+## Jinja 
+
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+- [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
+
+## Elixir 
+
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
+
+## SCSS 
+
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+
+## C# # 
+
+- [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
+
+## PowerShell 
+
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+
+## Ruby 
+
+- [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit's FUSE tap
+- [dm-drogeriemarkt/foreman_netbox](https://github.com/dm-drogeriemarkt/foreman_netbox) - A Foreman plug-in to synchronise hosts to the Netbox CMDB
+
+## Haskell 
+
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 
 ## License
