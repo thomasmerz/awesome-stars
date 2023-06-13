@@ -138,7 +138,6 @@
 - [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
 - [thomasmerz/Lists](https://github.com/thomasmerz/Lists) - Primary Block Lists
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Aveek-Saha/spotify-box](https://github.com/Aveek-Saha/spotify-box) - 🎧 Update a pinned gist to show your top Spotify tracks/artists.
