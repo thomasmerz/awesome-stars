@@ -6,6 +6,8 @@
 ## Contents
 
 - [others](#others)
+- [css](#css)
+- [mastodon](#mastodon)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [git](#git)
@@ -96,6 +98,7 @@
 
 ## others 
 
+- [potatoqualitee/fossilize](https://github.com/potatoqualitee/fossilize) - Mastodon Backup GitHub Action
 - [tomo-one/tomo-one.github.io](https://github.com/tomo-one/tomo-one.github.io) - Das neue TOMO.ONE
 - [tomo-one/GPN21](https://github.com/tomo-one/GPN21) - 
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
@@ -212,6 +215,14 @@
 - [dm-drogeriemarkt/foreman_netbox](https://github.com/dm-drogeriemarkt/foreman_netbox) - A Foreman plug-in to synchronise hosts to the Netbox CMDB
 - [rear/rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
+
+## css 
+
+- [nileane/TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI. 🍊🐘
+
+## mastodon 
+
+- [nileane/TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI. 🍊🐘
 
 ## awesome 
 
