@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [software](#software)
 - [others](#others)
 - [mastodon](#mastodon)
 - [docker](#docker)
@@ -23,7 +24,6 @@
 - [kubernetes](#kubernetes)
 - [server](#server)
 - [self-hosted](#self-hosted)
-- [software](#software)
 - [security](#security)
 - [iot](#iot)
 - [hacking](#hacking)
@@ -95,6 +95,11 @@
 - [express](#express)
 - [chrome](#chrome)
 - [p2p](#p2p)
+
+## software 
+
+- [zero-iee/techblog](https://github.com/zero-iee/techblog) - Zero GmbH Tech Blog
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## others 
 
@@ -422,10 +427,6 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-
-## software 
-
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## security 
 
