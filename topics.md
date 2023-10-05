@@ -446,7 +446,7 @@
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
-- [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation
+- [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
