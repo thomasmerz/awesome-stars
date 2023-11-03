@@ -26,6 +26,7 @@
 - [server](#server)
 - [self-hosted](#self-hosted)
 - [security](#security)
+- [pentesting](#pentesting)
 - [iot](#iot)
 - [hacking](#hacking)
 - [penetration-testing](#penetration-testing)
@@ -454,6 +455,10 @@
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+## pentesting 
+
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 
 ## iot 
 
