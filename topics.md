@@ -152,7 +152,7 @@
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [jlesage/docker-czkawka](https://github.com/jlesage/docker-czkawka) - Docker container for Czkawka
 - [hagezi/files](https://github.com/hagezi/files) - This, that and the other - things i would like to share
-- [yubiuser/pihole_tools](https://github.com/yubiuser/pihole_tools) - 
+- [yubiuser/pihole_tools](https://github.com/yubiuser/pihole_tools) - Helper scripts to interact with Pi-hole
 - [emikulic/darkstat](https://github.com/emikulic/darkstat) - Realtime network statistics.
 - [thomasmerz/crypto_puzzles](https://github.com/thomasmerz/crypto_puzzles) - Crypto Puzzles is a tool and library to provide a bunch of functions for encryption or pseudo encryption as puzzles or brain teasers. Awesome for kids but some puzzles are also a challenge for adults.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
