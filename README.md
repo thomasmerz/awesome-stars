@@ -92,6 +92,7 @@
 - [finance](#finance)
 - [cryptocurrency](#cryptocurrency)
 - [music](#music)
+- [visual-studio-code](#visual-studio-code)
 - [haskell](#haskell)
 - [google](#google)
 - [covid-19](#covid-19)
@@ -303,7 +304,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
+- [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
 ## cli 
 
@@ -558,6 +559,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [inokawa/lang-box](https://github.com/inokawa/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+- [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
 ## cybersecurity 
 
@@ -842,6 +844,10 @@
 
 - [petercunha/bandcamp-ripper](https://github.com/petercunha/bandcamp-ripper) - :musical_note:  Rips MP3 files from Bandcamp album URL's
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+
+## visual-studio-code 
+
+- [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
 ## haskell 
 
