@@ -174,7 +174,6 @@
 - [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [jvns/julia-drawings](https://github.com/jvns/julia-drawings) - 
 - [liamengland1/mischosts](https://github.com/liamengland1/mischosts) - hosts for pihole
-- [liamengland1/apple-telemetry](https://github.com/liamengland1/apple-telemetry) - Domain blocklists, IP blocklists, and cloaking files for blocking Apple telemetry.
 - [d43m0nhLInt3r/socialblocklists](https://github.com/d43m0nhLInt3r/socialblocklists) - Blocklists to block the communication to social networking sites and privacy harming services
 - [nschloe/github-trends](https://github.com/nschloe/github-trends) - :chart_with_upwards_trend: GitHub star history plots
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
