@@ -55,7 +55,6 @@
 - [monitoring](#monitoring)
 - [laravel](#laravel)
 - [rust](#rust)
-- [chrome](#chrome)
 - [documentation](#documentation)
 - [macos](#macos)
 - [windows](#windows)
@@ -99,6 +98,7 @@
 - [covid-19](#covid-19)
 - [html](#html)
 - [express](#express)
+- [chrome](#chrome)
 - [p2p](#p2p)
 
 ## privacy 
@@ -655,11 +655,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 
-## chrome 
-
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
-- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
 ## documentation 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -871,6 +866,10 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
 ## express 
+
+- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+## chrome 
 
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
