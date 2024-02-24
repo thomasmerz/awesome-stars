@@ -5,6 +5,9 @@
 
 ## Contents
 
+- [rust](#rust)
+- [http](#http)
+- [cli](#cli)
 - [hacktoberfest](#hacktoberfest)
 - [privacy](#privacy)
 - [dotnet](#dotnet)
@@ -17,7 +20,6 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [git](#git)
-- [cli](#cli)
 - [serverless](#serverless)
 - [bash](#bash)
 - [statistics](#statistics)
@@ -54,7 +56,6 @@
 - [typescript](#typescript)
 - [monitoring](#monitoring)
 - [laravel](#laravel)
-- [rust](#rust)
 - [documentation](#documentation)
 - [macos](#macos)
 - [windows](#windows)
@@ -84,7 +85,6 @@
 - [machine-learning](#machine-learning)
 - [mysql](#mysql)
 - [postgresql](#postgresql)
-- [http](#http)
 - [deno](#deno)
 - [swift](#swift)
 - [web](#web)
@@ -100,6 +100,41 @@
 - [express](#express)
 - [chrome](#chrome)
 - [p2p](#p2p)
+
+## rust 
+
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
+- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+
+## http 
+
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+
+## cli 
+
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 
 ## hacktoberfest 
 
@@ -361,22 +396,6 @@
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
-
-## cli 
-
-- [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
-- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 
 ## serverless 
 
@@ -644,18 +663,6 @@
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 
-## rust 
-
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-
 ## documentation 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -811,10 +818,6 @@
 ## postgresql 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
-
-## http 
-
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 
 ## deno 
 
