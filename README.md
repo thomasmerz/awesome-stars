@@ -5,6 +5,8 @@
 
 ## Contents
 
+- [firefox](#firefox)
+- [chrome](#chrome)
 - [rust](#rust)
 - [http](#http)
 - [cli](#cli)
@@ -46,7 +48,6 @@
 - [cybersecurity](#cybersecurity)
 - [osint](#osint)
 - [python3](#python3)
-- [firefox](#firefox)
 - [json](#json)
 - [nextjs](#nextjs)
 - [raspberry-pi](#raspberry-pi)
@@ -98,8 +99,21 @@
 - [covid-19](#covid-19)
 - [html](#html)
 - [express](#express)
-- [chrome](#chrome)
 - [p2p](#p2p)
+
+## firefox 
+
+- [tosdr/browser-extensions](https://github.com/tosdr/browser-extensions) - Browser extensions for Terms of Service; Didn't Read. “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. Get informed instantly about websites' terms & privacy pol
+- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+## chrome 
+
+- [tosdr/browser-extensions](https://github.com/tosdr/browser-extensions) - Browser extensions for Terms of Service; Didn't Read. “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. Get informed instantly about websites' terms & privacy pol
+- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
 ## rust 
 
@@ -601,14 +615,6 @@
 
 - [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 
-## firefox 
-
-- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
-- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
 ## json 
 
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -870,10 +876,6 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
 ## express 
-
-- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
-## chrome 
 
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
