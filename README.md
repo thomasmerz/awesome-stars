@@ -80,6 +80,7 @@
 - [powershell](#powershell)
 - [github-api](#github-api)
 - [chrome-extension](#chrome-extension)
+- [hacking-tools](#hacking-tools)
 - [terraform](#terraform)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -804,6 +805,10 @@
 ## chrome-extension 
 
 - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
+
+## hacking-tools 
+
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 
 ## terraform 
 
