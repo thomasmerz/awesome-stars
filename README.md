@@ -18,6 +18,7 @@
 - [privacy](#privacy)
 - [dotnet](#dotnet)
 - [html5](#html5)
+- [embedded](#embedded)
 - [software](#software)
 - [mastodon](#mastodon)
 - [css](#css)
@@ -385,6 +386,10 @@
 ## html5 
 
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
+
+## embedded 
+
+- [zero-iee/techblog](https://github.com/zero-iee/techblog) - Zero GmbH Tech Blog
 
 ## software 
 
