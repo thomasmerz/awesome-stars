@@ -105,6 +105,7 @@
 
 ## others 
 
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [m-oehme/memories](https://github.com/m-oehme/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [netzpolitikorg/xandr_recherche_EU](https://github.com/netzpolitikorg/xandr_recherche_EU) - This repository documents the data processing of our xandr-investigation within the EU
