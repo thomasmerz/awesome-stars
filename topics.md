@@ -105,6 +105,7 @@
 
 ## others 
 
+- [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [m-oehme/memories](https://github.com/m-oehme/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
