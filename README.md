@@ -94,6 +94,7 @@
 - [artificial-intelligence](#artificial-intelligence)
 - [finance](#finance)
 - [cryptocurrency](#cryptocurrency)
+- [quantitative-finance](#quantitative-finance)
 - [music](#music)
 - [visual-studio-code](#visual-studio-code)
 - [haskell](#haskell)
@@ -865,6 +866,10 @@
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
 ## cryptocurrency 
+
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+
+## quantitative-finance 
 
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
