@@ -5,6 +5,8 @@
 
 ## Contents
 
+- [pwa](#pwa)
+- [nodejs](#nodejs)
 - [others](#others)
 - [self-hosted](#self-hosted)
 - [bash](#bash)
@@ -66,7 +68,6 @@
 - [analytics](#analytics)
 - [homebrew](#homebrew)
 - [reactjs](#reactjs)
-- [nodejs](#nodejs)
 - [go](#go)
 - [mongodb](#mongodb)
 - [javascript](#javascript)
@@ -103,6 +104,18 @@
 - [html](#html)
 - [express](#express)
 - [p2p](#p2p)
+
+## pwa 
+
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+
+## nodejs 
+
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+- [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
+- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
 ## others 
 
@@ -736,12 +749,6 @@
 ## reactjs 
 
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-
-## nodejs 
-
-- [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
 ## go 
 
