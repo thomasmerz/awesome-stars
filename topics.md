@@ -107,6 +107,7 @@
 
 ## others 
 
+- [sdomi/witchcraft](https://github.com/sdomi/witchcraft) - A minecraft server, written in Bash. Mirror of a GitLab repository.
 - [anuejn/bundestagswahlrechtsreform](https://github.com/anuejn/bundestagswahlrechtsreform) - Ein Interaktives Essay über die Gewinner und Verlierer der Bundestagswahlrechtsreform 2023
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
 - [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland
