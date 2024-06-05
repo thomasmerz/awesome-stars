@@ -81,7 +81,6 @@
 - [data-analysis](#data-analysis)
 - [powershell](#powershell)
 - [github-api](#github-api)
-- [chrome-extension](#chrome-extension)
 - [hacking-tools](#hacking-tools)
 - [terraform](#terraform)
 - [data-visualization](#data-visualization)
@@ -196,7 +195,7 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [serl/syncthing-quick-status](https://github.com/serl/syncthing-quick-status) - Because sometimes I'm too lazy to open the browser
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
+- [passff/passff-host](https://github.com/passff/passff-host) - Read-only mirror of https://codeberg.org/PassFF/passff-host Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [Aveek-Saha/spotify-box](https://github.com/Aveek-Saha/spotify-box) - 🎧 Update a pinned gist to show your top Spotify tracks/artists.
 - [izayl/spotify-box](https://github.com/izayl/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
@@ -770,7 +769,7 @@
 
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
+- [passff/passff](https://github.com/passff/passff) - Read-only mirror of https://codeberg.org/PassFF/passff Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
 ## testing 
@@ -819,10 +818,6 @@
 ## github-api 
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-## chrome-extension 
-
-- [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
 
 ## hacking-tools 
 
