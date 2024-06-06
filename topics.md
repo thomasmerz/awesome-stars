@@ -156,7 +156,6 @@
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [thomasmerz/hosts](https://github.com/thomasmerz/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-- [thomasmerz/wirehole](https://github.com/thomasmerz/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
 - [thomasmerz/github-stats-box](https://github.com/thomasmerz/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [thomasmerz/spotify-box](https://github.com/thomasmerz/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
