@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [mastodon](#mastodon)
 - [others](#others)
 - [terminal](#terminal)
 - [pwa](#pwa)
@@ -23,7 +24,6 @@
 - [html5](#html5)
 - [embedded](#embedded)
 - [software](#software)
-- [mastodon](#mastodon)
 - [css](#css)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -103,6 +103,12 @@
 - [html](#html)
 - [express](#express)
 - [p2p](#p2p)
+
+## mastodon 
+
+- [nextcloud/integration_mastodon](https://github.com/nextcloud/integration_mastodon) - 🐘 Mastodon integration into Nextcloud
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [nileane/TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI. 🍊🐘
 
 ## others 
 
@@ -425,11 +431,6 @@
 
 - [zero-iee/techblog](https://github.com/zero-iee/techblog) - Zero GmbH Tech Blog
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-
-## mastodon 
-
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [nileane/TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI. 🍊🐘
 
 ## css 
 
