@@ -12,6 +12,7 @@
 - [linux](#linux)
 - [shell](#shell)
 - [mastodon](#mastodon)
+- [hacktoberfest](#hacktoberfest)
 - [others](#others)
 - [pwa](#pwa)
 - [nodejs](#nodejs)
@@ -21,7 +22,6 @@
 - [chrome](#chrome)
 - [rust](#rust)
 - [http](#http)
-- [hacktoberfest](#hacktoberfest)
 - [privacy](#privacy)
 - [dotnet](#dotnet)
 - [html5](#html5)
@@ -201,9 +201,40 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [nileane/TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI. 🍊🐘
 
-## others 
+## hacktoberfest 
 
 - [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) - 
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
+- [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
+- [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
+- [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
+- [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
+- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView) - Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
+- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+
+## others 
+
 - [sdomi/witchcraft](https://github.com/sdomi/witchcraft) - A minecraft server, written in Bash. Mirror of a GitLab repository.
 - [anuejn/bundestagswahlrechtsreform](https://github.com/anuejn/bundestagswahlrechtsreform) - Ein Interaktives Essay über die Gewinner und Verlierer der Bundestagswahlrechtsreform 2023
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
@@ -403,37 +434,6 @@
 
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-
-## hacktoberfest 
-
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
-- [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
-- [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
-- [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
-- [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
-- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView) - Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
-- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## privacy 
 
