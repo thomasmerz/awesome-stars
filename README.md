@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [data](#data)
 - [others](#others)
 - [cli](#cli)
 - [golang](#golang)
@@ -104,6 +105,10 @@
 - [html](#html)
 - [express](#express)
 - [p2p](#p2p)
+
+## data 
+
+- [HowTheyVote/data](https://github.com/HowTheyVote/data) - Weekly updated data on roll-call-votes in the European Parliament, as collected by https://howtheyvote.eu/.
 
 ## others 
 
