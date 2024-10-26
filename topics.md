@@ -5,8 +5,8 @@
 
 ## Contents
 
-- [data](#data)
 - [others](#others)
+- [data](#data)
 - [cli](#cli)
 - [golang](#golang)
 - [bash](#bash)
@@ -106,12 +106,9 @@
 - [express](#express)
 - [p2p](#p2p)
 
-## data 
-
-- [HowTheyVote/data](https://github.com/HowTheyVote/data) - Weekly updated data on roll-call-votes in the European Parliament, as collected by https://howtheyvote.eu/.
-
 ## others 
 
+- [fido-alliance/credential-exchange-feedback](https://github.com/fido-alliance/credential-exchange-feedback) - This repo is a place where non-FIDO members can post comments and issues about the Credential Exchange specification.
 - [sylvialange/vortraege](https://github.com/sylvialange/vortraege) - Slides for my talks
 - [sdomi/witchcraft](https://github.com/sdomi/witchcraft) - A minecraft server, written in Bash. Mirror of a GitLab repository.
 - [anuejn/bundestagswahlrechtsreform](https://github.com/anuejn/bundestagswahlrechtsreform) - Ein Interaktives Essay über die Gewinner und Verlierer der Bundestagswahlrechtsreform 2023
@@ -174,10 +171,6 @@
 - [thomasmerz/dnsperftest](https://github.com/thomasmerz/dnsperftest) - DNS Performance test
 - [thomasmerz/pihole_adlist_tool](https://github.com/thomasmerz/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [thomasmerz/PADD](https://github.com/thomasmerz/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
-- [thomasmerz/specials](https://github.com/thomasmerz/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
-- [thomasmerz/1Hosts](https://github.com/thomasmerz/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
-- [thomasmerz/Ultimate.Hosts.Blacklist](https://github.com/thomasmerz/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
-- [thomasmerz/whitelist](https://github.com/thomasmerz/whitelist) - The whitelist of the Ultimate Hosts Blacklist project, infrastructure and beyond.
 - [thomasmerz/blahdns](https://github.com/thomasmerz/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [thomasmerz/spectre-meltdown-checker](https://github.com/thomasmerz/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
 - [bundesregierung/gesetze](https://github.com/bundesregierung/gesetze) - Bundesgesetze und -verordnungen
@@ -235,6 +228,10 @@
 - [rear/rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
 
+## data 
+
+- [HowTheyVote/data](https://github.com/HowTheyVote/data) - Weekly updated data on roll-call-votes in the European Parliament, as collected by https://howtheyvote.eu/.
+
 ## cli 
 
 - [baalimago/wd-41](https://github.com/baalimago/wd-41) - Web-Development 41, a static web server with live-reload
@@ -268,7 +265,7 @@
 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [wick3dr0se/matrix](https://github.com/wick3dr0se/matrix) - Matrix digital rain implemented in Bash
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -314,7 +311,7 @@
 ## shell 
 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [redhat-plumbers-in-action/differential-shellcheck](https://github.com/redhat-plumbers-in-action/differential-shellcheck) - 🐚 GitHub Action for running ShellCheck differentially
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
@@ -518,7 +515,7 @@
 ## git 
 
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -533,7 +530,7 @@
 
 ## statistics 
 
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 
 ## markdown 
