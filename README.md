@@ -205,7 +205,7 @@
 - [ryo-ma/github-profile-readme-generator](https://github.com/ryo-ma/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [masterzen/winrm-cli](https://github.com/masterzen/winrm-cli) - Command-line tool to remotely execute commands on Windows machines through WinRM
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
-- [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
+- [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [klamann/diceware-dereko](https://github.com/klamann/diceware-dereko) - a decent German Diceware word list to generate memorable passphrases
 - [snbl/DoT-DoH-iOS](https://github.com/snbl/DoT-DoH-iOS) - DNS over TLS and DNS over HTTPS Configuration for iOS
