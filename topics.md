@@ -79,6 +79,7 @@
 - [cpp](#cpp)
 - [elixir](#elixir)
 - [automation](#automation)
+- [facebook](#facebook)
 - [devops](#devops)
 - [learning](#learning)
 - [data-analysis](#data-analysis)
@@ -184,7 +185,6 @@
 - [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [jvns/julia-drawings](https://github.com/jvns/julia-drawings) - 
 - [liamengland1/mischosts](https://github.com/liamengland1/mischosts) - hosts for pihole
-- [d43m0nhLInt3r/socialblocklists](https://github.com/d43m0nhLInt3r/socialblocklists) - Blocklists to block the communication to social networking sites and privacy harming services
 - [nschloe/github-trends](https://github.com/nschloe/github-trends) - :chart_with_upwards_trend: GitHub star history plots
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
@@ -820,6 +820,10 @@
 
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## facebook 
+
+- [d43m0nhLInt3r/socialblocklists](https://github.com/d43m0nhLInt3r/socialblocklists) - Blocklists to block the communication to social networking sites and privacy harming services
 
 ## devops 
 
