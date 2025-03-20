@@ -112,6 +112,7 @@
 
 ## others 
 
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [bgeorgakas/zotify](https://github.com/bgeorgakas/zotify) - A fast and customizable music and podcast downloader.
 - [dspearson/librespot-auth](https://github.com/dspearson/librespot-auth) - 
 - [ohmyhub/misbrands](https://github.com/ohmyhub/misbrands) - The world's most hated IT stickers
