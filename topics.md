@@ -96,9 +96,7 @@
 - [deno](#deno)
 - [swift](#swift)
 - [web](#web)
-- [artificial-intelligence](#artificial-intelligence)
 - [finance](#finance)
-- [cryptocurrency](#cryptocurrency)
 - [quantitative-finance](#quantitative-finance)
 - [ai](#ai)
 - [music](#music)
@@ -112,6 +110,7 @@
 
 ## others 
 
+- [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) - 
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [bgeorgakas/zotify](https://github.com/bgeorgakas/zotify) - A fast and customizable music and podcast downloader.
 - [dspearson/librespot-auth](https://github.com/dspearson/librespot-auth) - 
@@ -901,15 +900,7 @@
 
 - [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
 
-## artificial-intelligence 
-
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-
 ## finance 
-
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-
-## cryptocurrency 
 
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 
