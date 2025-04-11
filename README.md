@@ -13,6 +13,7 @@
 - [terminal](#terminal)
 - [hacktoberfest](#hacktoberfest)
 - [data](#data)
+- [development](#development)
 - [golang](#golang)
 - [linux](#linux)
 - [mastodon](#mastodon)
@@ -350,6 +351,10 @@
 ## data 
 
 - [HowTheyVote/data](https://github.com/HowTheyVote/data) - Weekly updated data on roll-call-votes in the European Parliament, as collected by https://howtheyvote.eu/.
+
+## development 
+
+- [baalimago/wd-41](https://github.com/baalimago/wd-41) - Web-Development 41, a static web server with live-reload
 
 ## golang 
 
