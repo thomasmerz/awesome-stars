@@ -88,6 +88,7 @@
 - [data-analysis](#data-analysis)
 - [powershell](#powershell)
 - [github-api](#github-api)
+- [productivity](#productivity)
 - [hacking-tools](#hacking-tools)
 - [terraform](#terraform)
 - [data-visualization](#data-visualization)
@@ -878,6 +879,10 @@
 ## github-api 
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## productivity 
+
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## hacking-tools 
 
