@@ -5,13 +5,20 @@
 
 ## Contents
 
+- [osint](#osint)
+- [python](#python)
+- [pentesting](#pentesting)
+- [security-tools](#security-tools)
+- [information-gathering](#information-gathering)
+- [cybersecurity](#cybersecurity)
+- [hacking](#hacking)
+- [mastodon](#mastodon)
 - [others](#others)
 - [docker](#docker)
 - [windows](#windows)
 - [open-source](#open-source)
 - [php](#php)
 - [vue](#vue)
-- [python](#python)
 - [python3](#python3)
 - [bash](#bash)
 - [shell](#shell)
@@ -23,7 +30,6 @@
 - [data](#data)
 - [development](#development)
 - [golang](#golang)
-- [mastodon](#mastodon)
 - [pwa](#pwa)
 - [nodejs](#nodejs)
 - [self-hosted](#self-hosted)
@@ -46,11 +52,8 @@
 - [kubernetes](#kubernetes)
 - [server](#server)
 - [security](#security)
-- [pentesting](#pentesting)
 - [iot](#iot)
-- [hacking](#hacking)
 - [penetration-testing](#penetration-testing)
-- [security-tools](#security-tools)
 - [aws](#aws)
 - [c](#c)
 - [ubuntu](#ubuntu)
@@ -59,8 +62,6 @@
 - [react](#react)
 - [webapp](#webapp)
 - [github](#github)
-- [cybersecurity](#cybersecurity)
-- [osint](#osint)
 - [json](#json)
 - [nextjs](#nextjs)
 - [raspberry-pi](#raspberry-pi)
@@ -112,6 +113,68 @@
 - [html](#html)
 - [express](#express)
 - [p2p](#p2p)
+
+## osint 
+
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
+- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
+
+## python 
+
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [cloud-py-api/mediadc](https://github.com/cloud-py-api/mediadc) - Nextcloud Media Duplicate Collector application
+- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
+- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+
+## pentesting 
+
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+
+## security-tools 
+
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+## information-gathering 
+
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+
+## cybersecurity 
+
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+
+## hacking 
+
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## mastodon 
+
+- [joschi/mastofeedbot](https://github.com/joschi/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
+- [joschi/toot-together](https://github.com/joschi/toot-together) - :elephant: A GitHub action to toot from a repository
+- [nextcloud/integration_mastodon](https://github.com/nextcloud/integration_mastodon) - 🐘 Mastodon integration into Nextcloud
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [nileane/TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI. 🍊🐘
 
 ## others 
 
@@ -284,22 +347,6 @@
 
 - [cloud-py-api/mediadc](https://github.com/cloud-py-api/mediadc) - Nextcloud Media Duplicate Collector application
 
-## python 
-
-- [cloud-py-api/mediadc](https://github.com/cloud-py-api/mediadc) - Nextcloud Media Duplicate Collector application
-- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
-- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
-- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
-- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
-- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-
 ## python3 
 
 - [cloud-py-api/mediadc](https://github.com/cloud-py-api/mediadc) - Nextcloud Media Duplicate Collector application
@@ -452,12 +499,6 @@
 - [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-
-## mastodon 
-
-- [nextcloud/integration_mastodon](https://github.com/nextcloud/integration_mastodon) - 🐘 Mastodon integration into Nextcloud
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [nileane/TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI. 🍊🐘
 
 ## pwa 
 
@@ -646,31 +687,13 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
-## pentesting 
-
-- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
-
 ## iot 
 
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 
-## hacking 
-
-- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
 ## penetration-testing 
 
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
-
-## security-tools 
-
-- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 ## aws 
 
@@ -728,16 +751,6 @@
 - [inokawa/lang-box](https://github.com/inokawa/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
-
-## cybersecurity 
-
-- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-
-## osint 
-
-- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
-- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 
 ## json 
 
