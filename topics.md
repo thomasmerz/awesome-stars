@@ -232,7 +232,6 @@
 - [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the resolved IPv4/IPv6 addresses of public DoH server
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
-- [thomasmerz/hosts](https://github.com/thomasmerz/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
 - [thomasmerz/github-stats-box](https://github.com/thomasmerz/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [thomasmerz/spotify-box](https://github.com/thomasmerz/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
@@ -241,11 +240,9 @@
 - [thomasmerz/rear](https://github.com/thomasmerz/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [thomasmerz/dnspeep](https://github.com/thomasmerz/dnspeep) - spy on the DNS queries your computer is making
 - [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
-- [thomasmerz/Lists](https://github.com/thomasmerz/Lists) - Primary Block Lists
 - [thomasmerz/dnsperftest](https://github.com/thomasmerz/dnsperftest) - DNS Performance test
 - [thomasmerz/pihole_adlist_tool](https://github.com/thomasmerz/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [thomasmerz/PADD](https://github.com/thomasmerz/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
-- [thomasmerz/blahdns](https://github.com/thomasmerz/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [thomasmerz/spectre-meltdown-checker](https://github.com/thomasmerz/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
 - [bundesregierung/gesetze](https://github.com/bundesregierung/gesetze) - Bundesgesetze und -verordnungen
 - [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
