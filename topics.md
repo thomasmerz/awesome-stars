@@ -108,6 +108,7 @@
 - [music](#music)
 - [visual-studio-code](#visual-studio-code)
 - [haskell](#haskell)
+- [developer-tools](#developer-tools)
 - [google](#google)
 - [covid-19](#covid-19)
 - [html](#html)
@@ -967,6 +968,10 @@
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
 ## haskell 
+
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+
+## developer-tools 
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
