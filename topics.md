@@ -21,7 +21,6 @@
 - [vue](#vue)
 - [python3](#python3)
 - [bash](#bash)
-- [zsh](#zsh)
 - [shell](#shell)
 - [linux](#linux)
 - [cli](#cli)
@@ -118,6 +117,8 @@
 
 ## others 
 
+- [Xoconoch/spotizerr-auth](https://github.com/Xoconoch/spotizerr-auth) - Command-line tool to help you register a Spotify account on your Spotizerr instance.
+- [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements while the original repo works towards the total refactor (v1.0-dev branch). Taking feature requests.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
@@ -374,13 +375,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-
-## zsh 
-
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 
 ## shell 
 
