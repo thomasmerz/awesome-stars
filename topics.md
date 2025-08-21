@@ -733,14 +733,12 @@
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
 - [z0mbix/vim-shfmt](https://github.com/z0mbix/vim-shfmt) - Vim plugin for shfmt (https://github.com/mvdan/sh)
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
-- [eth-p/vim-it2-touchbar](https://github.com/eth-p/vim-it2-touchbar) - A Vim and Neovim plugin that adds Apple Touch Bar support when using iTerm2.
 - [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
 
 ## neovim 
 
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
-- [eth-p/vim-it2-touchbar](https://github.com/eth-p/vim-it2-touchbar) - A Vim and Neovim plugin that adds Apple Touch Bar support when using iTerm2.
 
 ## react 
 
