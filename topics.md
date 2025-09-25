@@ -56,6 +56,7 @@
 - [security](#security)
 - [iot](#iot)
 - [penetration-testing](#penetration-testing)
+- [cloud](#cloud)
 - [aws](#aws)
 - [c](#c)
 - [ubuntu](#ubuntu)
@@ -119,7 +120,7 @@
 ## others 
 
 - [afkarxyz/Spotizer](https://github.com/afkarxyz/Spotizer) - Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate.
-- [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements while the original repo works towards the total refactor (v1.0-dev branch). Taking feature requests.
+- [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements since the original repo has been inactive for years. Taking [Feature Requests]
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -715,6 +716,15 @@
 ## penetration-testing 
 
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+
+## cloud 
+
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
+- [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## aws 
 
