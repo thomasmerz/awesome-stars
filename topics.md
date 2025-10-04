@@ -66,6 +66,7 @@
 - [webapp](#webapp)
 - [github](#github)
 - [json](#json)
+- [visualization](#visualization)
 - [nextjs](#nextjs)
 - [raspberry-pi](#raspberry-pi)
 - [api](#api)
@@ -785,6 +786,11 @@
 
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+
+## visualization 
+
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 
 ## nextjs 
 
