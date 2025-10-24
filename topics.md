@@ -120,6 +120,7 @@
 
 ## others 
 
+- [4bigchoi23/activity-box](https://github.com/4bigchoi23/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
 - [afkarxyz/Spotizer](https://github.com/afkarxyz/Spotizer) - Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching.
 - [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements since the original repo has been inactive for years. Taking [Feature Requests]
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
