@@ -120,7 +120,6 @@
 
 ## others 
 
-- [4bigchoi23/activity-box](https://github.com/4bigchoi23/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
 - [afkarxyz/Spotizer](https://github.com/afkarxyz/Spotizer) - Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching.
 - [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements since the original repo has been inactive for years. Taking [Feature Requests]
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -212,7 +211,6 @@
 - [Aveek-Saha/spotify-box](https://github.com/Aveek-Saha/spotify-box) - 🎧 Update a pinned gist to show your top Spotify tracks/artists.
 - [izayl/spotify-box](https://github.com/izayl/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
-- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
 - [curbengh/urlhaus-filter](https://github.com/curbengh/urlhaus-filter) - Mirror of https://gitlab.com/malware-filter/urlhaus-filter
 - [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
