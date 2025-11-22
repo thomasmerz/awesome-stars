@@ -5,6 +5,8 @@
 
 ## Contents
 
+- [music](#music)
+- [python](#python)
 - [others](#others)
 - [privacy](#privacy)
 - [golang](#golang)
@@ -12,7 +14,6 @@
 - [windows](#windows)
 - [linux](#linux)
 - [osint](#osint)
-- [python](#python)
 - [pentesting](#pentesting)
 - [security-tools](#security-tools)
 - [information-gathering](#information-gathering)
@@ -108,7 +109,6 @@
 - [ui](#ui)
 - [finance](#finance)
 - [quantitative-finance](#quantitative-finance)
-- [music](#music)
 - [visual-studio-code](#visual-studio-code)
 - [haskell](#haskell)
 - [developer-tools](#developer-tools)
@@ -117,6 +117,30 @@
 - [html](#html)
 - [express](#express)
 - [p2p](#p2p)
+
+## music 
+
+- [exislow/tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24-bit, 192 kHz and Dolby Atmos.
+- [petercunha/bandcamp-ripper](https://github.com/petercunha/bandcamp-ripper) - :musical_note:  Rips MP3 files from Bandcamp album URL's
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+
+## python 
+
+- [exislow/tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24-bit, 192 kHz and Dolby Atmos.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [cloud-py-api/mediadc](https://github.com/cloud-py-api/mediadc) - Nextcloud Media Duplicate Collector application
+- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
+- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## others 
 
@@ -168,7 +192,6 @@
 - [hagezi/files](https://github.com/hagezi/files) - This, that and the other - things i would like to share
 - [yubiuser/pihole_tools](https://github.com/yubiuser/pihole_tools) - Helper scripts to interact with Pi-hole
 - [emikulic/darkstat](https://github.com/emikulic/darkstat) - Realtime network statistics.
-- [thomasmerz/crypto_puzzles](https://github.com/thomasmerz/crypto_puzzles) - Crypto Puzzles is a tool and library to provide a bunch of functions for encryption or pseudo encryption as puzzles or brain teasers. Awesome for kids but some puzzles are also a challenge for adults.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [duckduckgo/tracker-blocklists](https://github.com/duckduckgo/tracker-blocklists) - Web tracker blocklists used by DuckDuckGo apps and extensions.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
@@ -177,14 +200,10 @@
 - [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the resolved IPv4/IPv6 addresses of public DoH server
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
-- [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
 - [thomasmerz/github-stats-box](https://github.com/thomasmerz/github-stats-box) - 📌 Update a gist to contain your GitHub stats
-- [thomasmerz/spotify-box](https://github.com/thomasmerz/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
 - [thomasmerz/productive-box](https://github.com/thomasmerz/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [thomasmerz/metrics](https://github.com/thomasmerz/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [thomasmerz/dnspeep](https://github.com/thomasmerz/dnspeep) - spy on the DNS queries your computer is making
 - [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
-- [thomasmerz/dnsperftest](https://github.com/thomasmerz/dnsperftest) - DNS Performance test
 - [thomasmerz/pihole_adlist_tool](https://github.com/thomasmerz/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [thomasmerz/PADD](https://github.com/thomasmerz/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [bundesregierung/gesetze](https://github.com/bundesregierung/gesetze) - Bundesgesetze und -verordnungen
@@ -306,23 +325,6 @@
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-
-## python 
-
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-- [cloud-py-api/mediadc](https://github.com/cloud-py-api/mediadc) - Nextcloud Media Duplicate Collector application
-- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
-- [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
-- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
-- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
-- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## pentesting 
 
@@ -983,11 +985,6 @@
 ## quantitative-finance 
 
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
-
-## music 
-
-- [petercunha/bandcamp-ripper](https://github.com/petercunha/bandcamp-ripper) - :musical_note:  Rips MP3 files from Bandcamp album URL's
-- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## visual-studio-code 
 
