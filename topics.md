@@ -41,6 +41,7 @@
 - [chrome](#chrome)
 - [http](#http)
 - [dotnet](#dotnet)
+- [gui](#gui)
 - [html5](#html5)
 - [embedded](#embedded)
 - [software](#software)
@@ -585,6 +586,11 @@
 ## dotnet 
 
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+
+## gui 
+
+- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## html5 
 
