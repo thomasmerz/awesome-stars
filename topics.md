@@ -43,6 +43,7 @@
 - [firefox](#firefox)
 - [chrome](#chrome)
 - [http](#http)
+- [tui](#tui)
 - [dotnet](#dotnet)
 - [gui](#gui)
 - [html5](#html5)
@@ -618,6 +619,16 @@
 
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+
+## tui 
+
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 
 ## dotnet 
 
