@@ -105,6 +105,7 @@
 - [mysql](#mysql)
 - [postgresql](#postgresql)
 - [mongodb](#mongodb)
+- [mcp](#mcp)
 - [ai](#ai)
 - [deno](#deno)
 - [swift](#swift)
@@ -979,6 +980,10 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## mongodb 
+
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## mcp 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
