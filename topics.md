@@ -109,6 +109,7 @@
 - [ai](#ai)
 - [deno](#deno)
 - [swift](#swift)
+- [video](#video)
 - [web](#web)
 - [ui](#ui)
 - [finance](#finance)
@@ -1000,6 +1001,10 @@
 
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
+
+## video 
+
+- [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
 
 ## web 
 
