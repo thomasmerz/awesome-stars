@@ -6,6 +6,7 @@
 ## Contents
 
 - [privacy](#privacy)
+- [malware](#malware)
 - [security](#security)
 - [npm](#npm)
 - [nodejs](#nodejs)
@@ -145,6 +146,15 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
+## malware 
+
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
+- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
+- [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
 ## security 
 
 - [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
@@ -257,13 +267,11 @@
 - [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole) - Block malware on your network using your PiHole, using threat intelligence extracted from Emerging Threats rulesets.
 - [Nevenit/oggify](https://github.com/Nevenit/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
 - [friedrich/hans](https://github.com/friedrich/hans) - IP over ICMP
-- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
 - [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
 - [rdwebdesign/folder2ram](https://github.com/rdwebdesign/folder2ram) - mount those folders to ram without losing access to their counterpart on disk!
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
 - [n0y/mediatheken-dlna-bridge](https://github.com/n0y/mediatheken-dlna-bridge) - consumes contents of various (german) Mediatheken, and serves it's content to your local network using DLNA
-- [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [jlesage/docker-czkawka](https://github.com/jlesage/docker-czkawka) - Docker container for Czkawka
 - [hagezi/files](https://github.com/hagezi/files) - This, that and the other - things i would like to share
 - [yubiuser/pihole_tools](https://github.com/yubiuser/pihole_tools) - Helper scripts to interact with Pi-hole
