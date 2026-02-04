@@ -220,7 +220,7 @@
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) - Probe codebase of RIPE Atlas, a global network measuring Internet connectivity and reachability
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -455,7 +455,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [wick3dr0se/matrix](https://github.com/wick3dr0se/matrix) - Matrix digital rain implemented in Bash
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [redhat-plumbers-in-action/differential-shellcheck](https://github.com/redhat-plumbers-in-action/differential-shellcheck) - 🐚 GitHub Action for running ShellCheck differentially
@@ -474,7 +474,7 @@
 ## zsh 
 
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 
@@ -500,7 +500,7 @@
 - [baalimago/wd-41](https://github.com/baalimago/wd-41) - Web-Development 41, a static web server with live-reload
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
@@ -768,14 +768,14 @@
 
 ## c 
 
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 
 ## ubuntu 
 
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 
 ## vim 
 
