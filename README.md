@@ -591,7 +591,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## data 
@@ -718,7 +718,7 @@
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
 ## serverless 
