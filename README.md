@@ -80,6 +80,7 @@
 - [monitoring](#monitoring)
 - [laravel](#laravel)
 - [documentation](#documentation)
+- [distributed-systems](#distributed-systems)
 - [analytics](#analytics)
 - [homebrew](#homebrew)
 - [reactjs](#reactjs)
@@ -878,6 +879,10 @@
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
+
+## distributed-systems 
+
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 
 ## analytics 
 
