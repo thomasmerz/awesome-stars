@@ -252,7 +252,6 @@
 - [thomasmerz/productive-box](https://github.com/thomasmerz/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [thomasmerz/metrics](https://github.com/thomasmerz/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
-- [thomasmerz/PADD](https://github.com/thomasmerz/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [bundesregierung/gesetze](https://github.com/bundesregierung/gesetze) - Bundesgesetze und -verordnungen
 - [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
 - [speed47/btrfs-list](https://github.com/speed47/btrfs-list) - Get a nice tree-style view of your btrfs subvolumes/snapshots, including their size, a la 'zfs list'
