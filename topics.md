@@ -185,7 +185,7 @@
 
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
-- [gensecaihq/Shai-Hulud-2.0-Detector](https://github.com/gensecaihq/Shai-Hulud-2.0-Detector) - Detect npm packages compromised in the Shai-Hulud 2.0 supply chain attack (Nov 2025) and ChainDrop wave (Aug 2026)  Scans for 790+ malicious packages, suspicious scripts, TruffleHog activity, SHA1HULU
+- [gensecaihq/Shai-Hulud-2.0-Detector](https://github.com/gensecaihq/Shai-Hulud-2.0-Detector) - GitHub Action that detects the Shai-Hulud 2.0 (Nov 2025) and ChainDrop (Aug 2026) npm supply-chain attacks. Scans dependencies, lockfiles and CI workflows against a daily-updated database of 1,200+ co
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
@@ -238,7 +238,7 @@
 ## nodejs 
 
 - [upptime/cli](https://github.com/upptime/cli) - ⬆️🛠️ Upcoming CLI to power the new version of Upptime
-- [gensecaihq/Shai-Hulud-2.0-Detector](https://github.com/gensecaihq/Shai-Hulud-2.0-Detector) - Detect npm packages compromised in the Shai-Hulud 2.0 supply chain attack (Nov 2025) and ChainDrop wave (Aug 2026)  Scans for 790+ malicious packages, suspicious scripts, TruffleHog activity, SHA1HULU
+- [gensecaihq/Shai-Hulud-2.0-Detector](https://github.com/gensecaihq/Shai-Hulud-2.0-Detector) - GitHub Action that detects the Shai-Hulud 2.0 (Nov 2025) and ChainDrop (Aug 2026) npm supply-chain attacks. Scans dependencies, lockfiles and CI workflows against a daily-updated database of 1,200+ co
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
@@ -403,7 +403,7 @@
 
 ## npm 
 
-- [gensecaihq/Shai-Hulud-2.0-Detector](https://github.com/gensecaihq/Shai-Hulud-2.0-Detector) - Detect npm packages compromised in the Shai-Hulud 2.0 supply chain attack (Nov 2025) and ChainDrop wave (Aug 2026)  Scans for 790+ malicious packages, suspicious scripts, TruffleHog activity, SHA1HULU
+- [gensecaihq/Shai-Hulud-2.0-Detector](https://github.com/gensecaihq/Shai-Hulud-2.0-Detector) - GitHub Action that detects the Shai-Hulud 2.0 (Nov 2025) and ChainDrop (Aug 2026) npm supply-chain attacks. Scans dependencies, lockfiles and CI workflows against a daily-updated database of 1,200+ co
 
 ## golang 
 
