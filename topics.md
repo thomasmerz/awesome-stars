@@ -17,6 +17,8 @@
 - [typescript](#typescript)
 - [cli](#cli)
 - [others](#others)
+- [malware](#malware)
+- [phishing](#phishing)
 - [npm](#npm)
 - [golang](#golang)
 - [osint](#osint)
@@ -71,8 +73,6 @@
 - [react](#react)
 - [webapp](#webapp)
 - [github](#github)
-- [malware](#malware)
-- [phishing](#phishing)
 - [json](#json)
 - [visualization](#visualization)
 - [nextjs](#nextjs)
@@ -184,6 +184,7 @@
 ## security 
 
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [gensecaihq/Shai-Hulud-2.0-Detector](https://github.com/gensecaihq/Shai-Hulud-2.0-Detector) - GitHub Action that detects the Shai-Hulud 2.0 (Nov 2025) and ChainDrop (Aug 2026) npm supply-chain attacks. Scans dependencies, lockfiles and CI workflows against a daily-updated database of 1,200+ co
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
@@ -211,9 +212,11 @@
 ## privacy 
 
 - [pschneider1968/pihole-bl-msft-telemetry-bsi](https://github.com/pschneider1968/pihole-bl-msft-telemetry-bsi) - Pi-Hole blocklist for hosts involved in Microsoft Windows telemetry, as documented by BSI Bund in Germany
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [Varbin/ausweiskopie](https://github.com/Varbin/ausweiskopie) - Create privacy friendly and legal copies of your Ausweisdokument.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff) - blocklists, scripts, etc.
@@ -314,6 +317,7 @@
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
 - [n0y/mediatheken-dlna-bridge](https://github.com/n0y/mediatheken-dlna-bridge) - consumes contents of various (german) Mediatheken, and serves it's content to your local network using DLNA
 - [jlesage/docker-czkawka](https://github.com/jlesage/docker-czkawka) - Docker container for Czkawka
+- [hagezi/files](https://github.com/hagezi/files) - This, that and the other - things i would like to share
 - [yubiuser/pihole_tools](https://github.com/yubiuser/pihole_tools) - Helper scripts to interact with Pi-hole
 - [emikulic/darkstat](https://github.com/emikulic/darkstat) - Realtime network statistics.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -380,6 +384,22 @@
 - [dm-drogeriemarkt/foreman_netbox](https://github.com/dm-drogeriemarkt/foreman_netbox) - A Foreman plug-in to synchronise hosts to the Netbox CMDB
 - [rear/rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
+
+## malware 
+
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
+- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
+- [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
+## phishing 
+
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
+- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## npm 
 
@@ -832,18 +852,6 @@
 - [inokawa/lang-box](https://github.com/inokawa/lang-box) - 💻 Update a pinned gist to contain languages of your recent commits in GitHub
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
-
-## malware 
-
-- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
-- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
-- [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
-## phishing 
-
-- [PeterDaveHello/chkdomain](https://github.com/PeterDaveHello/chkdomain) - 🔍 Discover if a domain is resolvable or blocked by secure DNS and Ad-blocking services, and experience the innovative idea of DaaS - DNS as an Intelligence Service.
-- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 
 ## json 
 
