@@ -318,7 +318,6 @@
 - [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole) - Block malware on your network using your PiHole, using threat intelligence extracted from Emerging Threats rulesets.
 - [Nevenit/oggify](https://github.com/Nevenit/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
 - [friedrich/hans](https://github.com/friedrich/hans) - IP over ICMP
-- [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) - 
 - [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) - 
 - [rdwebdesign/folder2ram](https://github.com/rdwebdesign/folder2ram) - mount those folders to ram without losing access to their counterpart on disk!
 - [ndi-ct/traefik-mastodon](https://github.com/ndi-ct/traefik-mastodon) - 
