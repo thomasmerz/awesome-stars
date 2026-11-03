@@ -613,7 +613,6 @@
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
-- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
